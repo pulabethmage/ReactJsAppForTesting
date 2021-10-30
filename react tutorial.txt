@@ -1,0 +1,9 @@
+Git pass : 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
+
+Tutorial link : https://youtu.be/Ke90Tje7VS0
+
+- install node js
+-npm i -g create-react-app
+-go to the folder you want 
+-create-react-app app-one [ apply any name]
+-npm start [ to run the server ]
